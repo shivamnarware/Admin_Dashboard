@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "title": "Post Five",
+      "body": "hi how are you",
+      "publishedAt": "2021-02-12",
+      "id": "h6e6ucM"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "john smith",
+      "Gender": "Male",
+      "email": "john@example.com"
+    },
+    {
+      "name": "Shivam Narware",
+      "email": "shivamn17100@iiitnr.edu.in",
+      "Gender": "Male",
+      "id": "M9DxdQN"
+    },
+    {
+      "name": "Shivam Narware",
+      "email": "shivamnarware97@gmail.com",
+      "Gender": "Female",
+      "id": "ERj0szL"
+    },
+    {
+      "name": "shivamnarware",
+      "email": "shivamnarware97@gmail.com",
+      "Gender": "Female",
+      "id": "0euPCz8"
+    },
+    {
+      "name": "shivamnarware",
+      "email": "shivamnarware97@gmail.com",
+      "Gender": "Female",
+      "id": "EfFYZes"
+    },
+    {
+      "name": "shivamnarware",
+      "email": "shivamnarware97@gmail.com",
+      "Gender": "Male",
+      "id": "FZ2U_KI"
+    }
+  ]
+}
